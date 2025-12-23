@@ -1,0 +1,22 @@
+naca 0008
+
+pane
+
+gdes
+tgap 0 0 
+exec 
+
+
+ppar
+n  161
+
+
+oper
+alfa
+ 1
+cpwr  NACA_CP_0008.txt
+
+y
+
+quit 
+

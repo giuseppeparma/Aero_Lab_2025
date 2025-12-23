@@ -1,0 +1,29 @@
+naca 1410
+
+pane
+
+gdes
+tgap 0 0 
+exec 
+
+
+ppar
+n  161
+
+
+oper
+visc
+ 10000000
+iter
+ 250
+seqp
+pacc
+ NACAviscCoefficients_1410.txt
+
+alfa  1
+
+
+y
+
+quit 
+

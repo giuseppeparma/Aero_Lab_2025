@@ -1,0 +1,25 @@
+naca 0008
+
+pane
+
+gdes
+tgap 0 0 
+exec 
+
+
+ppar
+n  161
+
+
+oper
+seqp
+pacc
+ NACAcoefficients_0008.txt
+
+alfa  1
+
+
+y
+
+quit 
+

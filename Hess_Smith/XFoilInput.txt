@@ -1,0 +1,19 @@
+naca 1410
+
+pane
+
+gdes
+tgap 0 0 
+exec 
+
+
+ppar
+n  161
+
+
+save  NACA_1410.txt
+
+y
+
+quit 
+
